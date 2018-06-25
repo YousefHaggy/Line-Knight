@@ -1,3 +1,4 @@
+Play here: https://yousefhaggy.github.io/Line-Knight/
 Line Knight
 Just a simple JS game.
 
